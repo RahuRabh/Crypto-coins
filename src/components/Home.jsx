@@ -19,6 +19,15 @@ const Home = () => {
           repeatType: "reverse",
         }}
       >
+      <Text
+        fontSize={"1xl"}
+        textAlign={"end"}
+        fontWeight={"thin"}
+        color={"whiteAlpha.700"}
+        // mt={"-10"}
+      >
+        Navigate to Coins and Exchanges for details and graphs.
+      </Text>
         <Image
           w={"full"}
           h={"full"}

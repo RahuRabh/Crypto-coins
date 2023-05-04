@@ -33,7 +33,9 @@ This application was developed using the following technologies:
 
 > API
 
-## Gif![ezgif com-video-to-gif](https://user-images.githubusercontent.com/63224718/236291616-07d381f6-2dbf-4d16-94a9-fdb4131d8a79.gif)
+## Gif
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/63224718/236291616-07d381f6-2dbf-4d16-94a9-fdb4131d8a79.gif)
 
 
 This application was developed by following along [6PackProgrammer](https://www.youtube.com/@6PackProgrammer)

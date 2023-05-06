@@ -33,6 +33,10 @@ This application was developed using the following technologies:
 
 > API
 
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/63224718/236598297-da5b49da-492a-47ad-8f84-48ba46c7cc35.png)
+
 ## Gif
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/63224718/236291616-07d381f6-2dbf-4d16-94a9-fdb4131d8a79.gif)

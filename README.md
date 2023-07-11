@@ -2,6 +2,13 @@
 
 "Get ready to dive into the exciting world of cryptocurrencies with this React-based web app! With its sleek Chakra UI interface and cutting-edge hooks technology, this app fetches real-time data about your favorite cryptocurrencies and presents it in a fun and easy-to-understand format. Whether you're a seasoned investor or a curious newcomer, you'll love the user-friendly design and up-to-the-minute information this app provides. So why not take the plunge and join the cryptocurrency craze today?"
 
+## Gif
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/63224718/236291616-07d381f6-2dbf-4d16-94a9-fdb4131d8a79.gif)
+
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/63224718/236598297-da5b49da-492a-47ad-8f84-48ba46c7cc35.png)
 
 ## Installation
 
@@ -32,14 +39,5 @@ This application was developed using the following technologies:
 > HTML
 
 > API
-
-## Screenshot
-
-![image](https://user-images.githubusercontent.com/63224718/236598297-da5b49da-492a-47ad-8f84-48ba46c7cc35.png)
-
-## Gif
-
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/63224718/236291616-07d381f6-2dbf-4d16-94a9-fdb4131d8a79.gif)
-
 
 This application was developed by following along [6PackProgrammer](https://www.youtube.com/@6PackProgrammer)
